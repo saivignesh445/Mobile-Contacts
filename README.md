@@ -4,9 +4,13 @@ This Jupyter Notebook provides a simple implementation for managing contact info
 
 ## Features
 => Add new contacts with name, phone, and email.
+
 => Display all saved contacts.
+
 => Search contacts by name.
+
 => Delete contacts.
+
 => Update existing contact details.
 
 ## Requirements
